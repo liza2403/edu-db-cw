@@ -9,7 +9,7 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 
 **Виконала:** 
 
-*студентка 2-го курсу, групи ІО-91*<span padding-right:5em></span> **[Єлизавета Копернак] [@Liza_Kops]**
+*студентка 2-го курсу, групи ІО-91*<span padding-right:5em></span> **Єлизавета Копернак** @Liza_Kops
 
 
 **Керівник**
